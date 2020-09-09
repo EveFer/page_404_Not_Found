@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://page-404-not-found.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/EveFer/page_404_Not_Found">
       Solution
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-challenge}">
+    <a href="https://github.com/EveFer/page_404_Not_Found">
       Challenge
     </a>
   </h3>
@@ -40,6 +40,7 @@
 
 This a Challenge where i builded with **HTML** and **CSS3**, I implemented **mobile First** to
 design responsive.
+This challenge is deployed on [Vercel](https://vercel.com/) 
 
 ### Built With
 
